@@ -1,3 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyafaHadyan&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=SyafaHadyan&theme=default&langs_count=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&theme=dark#gh-light-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SyafaHadyan&theme=default&langs_count=10#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![trophy](https://github-profile-trophy.vercel.app/?username=SyafaHadyan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
