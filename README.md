@@ -2,7 +2,7 @@
 
 ## I am currently learning / using
 
-[![My Skills](https://skillicons.dev/icons?i=arch,debian,linux,neovim,vim,aws,docker,grafana,prometheus,nginx,git,postgres,mysql,redis,raspberrypi,bash,go,rust,java,cs,html,css,postman,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,linux,neovim,vim,aws,cloudflare,docker,grafana,prometheus,nginx,git,postgres,mysql,redis,raspberrypi,bash,go,rust,java,cs,html,css,postman,unity)](https://skillicons.dev)
 
 ## My Stats
 
