@@ -1,8 +1,15 @@
+# Syafa Hadyan Rasendriya
+
+## I am currently learning / using
+
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,linux,neovim,vim,aws,docker,grafana,prometheus,nginx,git,postgres,mysql,redis,raspberrypi,bash,go,rust,java,cs,html,css,postman,unity)](https://skillicons.dev)
+
+## My Stats
+
 |||
 |:---|:---|
-|Github Stats|![GitHub Stats](https://github-readme-stats-amber-beta-62.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=dracula)|
-|Top Languages|![Top Languages](https://github-readme-stats-amber-beta-62.vercel.app/api/top-langs/?username=SyafaHadyan&theme=dracula&langs_count=10)|
-|WakaTime|![WakaTime](https://github-readme-stats-amber-beta-62.vercel.app/api/wakatime?username=shr&theme=dracula)|
-|Thropy|![Trophy](https://github-profile-trophy.vercel.app/?username=SyafaHadyan&theme=dracula)|
-|Languages|![Languages](https://wakatime.com/share/@shr/9f53fe7e-c9a6-42f6-8c98-85e8b837bd28.svg)|
+|Github Stats|![GitHub Stats](https://github-readme-stats-amber-beta-62.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=gruvbox)|
+|Top Languages|![Top Languages](https://github-readme-stats-amber-beta-62.vercel.app/api/top-langs/?username=SyafaHadyan&theme=gruvbox&langs_count=10)|
+|WakaTime|![WakaTime](https://github-readme-stats-amber-beta-62.vercel.app/api/wakatime?username=shr&theme=gruvbox)|
+|Thropy|![Trophy](https://github-profile-trophy.vercel.app/?username=SyafaHadyan&theme=gruvbox)|
 |Profile Views|![Profile Views](https://komarev.com/ghpvc/?username=SyafaHadyan)|
