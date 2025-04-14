@@ -6,10 +6,12 @@
 
 ## My Stats
 
-|||
-|:---|:---|
-|Github Stats|![GitHub Stats](https://github-readme-stats-amber-beta-62.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=gruvbox)|
-|Top Languages|![Top Languages](https://github-readme-stats-amber-beta-62.vercel.app/api/top-langs/?username=SyafaHadyan&theme=gruvbox&langs_count=10)|
-|WakaTime|![WakaTime](https://github-readme-stats-amber-beta-62.vercel.app/api/wakatime?username=shr&theme=gruvbox)|
-|Thropy|![Trophy](https://github-profile-trophy.vercel.app/?username=SyafaHadyan&theme=gruvbox)|
-|Profile Views|![Profile Views](https://komarev.com/ghpvc/?username=SyafaHadyan)|
+![GitHub Stats](https://github-readme-stats-amber-beta-62.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=gruvbox)
+
+![Top Languages](https://github-readme-stats-amber-beta-62.vercel.app/api/top-langs/?username=SyafaHadyan&theme=gruvbox&langs_count=10)
+
+![WakaTime](https://github-readme-stats-amber-beta-62.vercel.app/api/wakatime?username=shr&theme=gruvbox)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=SyafaHadyan&theme=gruvbox)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SyafaHadyan)
