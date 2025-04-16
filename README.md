@@ -1,4 +1,4 @@
-# `SyafaHadyan@github:~/readme $ cat README.md`
+# `syafa@github:~/readme $ cat README.md`
 
 ## I am currently learning / using
 
