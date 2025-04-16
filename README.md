@@ -1,4 +1,4 @@
-# Syafa Hadyan Rasendriya
+# `SyafaHadyan@github:~/readme $ cat README.md`
 
 ## I am currently learning / using
 
