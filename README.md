@@ -4,7 +4,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,ubuntu,raspberrypi,linux,neovim,vim,postman,unity,bash,aws,cloudflare,ec2,s3,docker,githubactions,grafana,prometheus,nginx,tailscale,vercel,git,postgresql,mariadb,mysql,redis,fiber,gorm,jwt,api,golang,rust,java,cs,html,css)
 
-## My Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats-syafa.vercel.app/api?username=SyafaHadyan&count_private=true&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=gruvbox)
 
