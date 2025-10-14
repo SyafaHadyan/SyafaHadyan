@@ -14,8 +14,6 @@
 
 ![Top Languages](https://github-readme-stats-syafa.vercel.app/api/top-langs/?username=SyafaHadyan&theme=gruvbox&langs_count=10)
 
-![WakaTime](https://github-readme-stats-syafa.vercel.app/api/wakatime?username=shr&theme=gruvbox)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=SyafaHadyan&theme=gruvbox)
 
 ![Moe Counter](https://count.getloli.com/@:SyafaHadyan?theme=moebooru)
