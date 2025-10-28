@@ -6,7 +6,7 @@
 
 ## I am currently learning / using
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=proxmox,kubernetes,linux,arch,debian,ubuntu,raspberrypi,aws,gcp,cloudflare,ec2,s3,docker,grafana,prometheus,githubactions,nginx,tailscale,postgresql,mariadb,mysql,mongodb,git,fiber,gorm,jwt,api,discordbots,tor,unity,neovim,vim,bash,tmux,yaml,golang,rust,java,cs,html,css)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=proxmox,kubernetes,linux,arch,debian,ubuntu,raspberrypi,aws,gcp,cloudflare,ec2,s3,docker,grafana,prometheus,githubactions,nginx,tailscale,postgresql,mariadb,mysql,mongodb,git,fiber,gorm,jwt,api,discordbots,tor,unity,neovim,vim,bash,tmux,yaml,ollama,golang,rust,java,cs,html,css)
 
 ## Stats
 
