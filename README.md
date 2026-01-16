@@ -18,8 +18,6 @@
 
 ---
 
-![Moe Counter](https://count.getloli.com/@:SyafaHadyan?theme=moebooru)
-
 <img src="https://media.tenor.com/gN3yosRLjrYAAAAd/bocchi-bocchitherock.gif" alt="gif" width="20%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SyafaHadyan)
